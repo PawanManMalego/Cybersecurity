@@ -1,6 +1,7 @@
 # CyberSecurityCUAS
 
 | 01.11.2025  | 1.5h       | Kick-off lecture                           | Class Lecture                                          | Learn about Logbook and logged in to cisco platform      |
+| :---         |     :---:      |     :---:      |     :---:      |
 | 01.11.2025  | 2h         | Learning: The World of Cybersecurity       | Cisco                                                  |  | 
 | 02.11.2025  | 1.5h       | Learning: Organizational Data              | Cisco                                                  |  |
 | 02.11.2025  | 1.5h       | Learning: What was taken?                  | Cisco                                                  |  |
