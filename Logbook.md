@@ -27,3 +27,9 @@
 | 07.11.2025 |   0.5h    | Module Quiz 4  |         Cisco                     |  |
 | 07.11.2025 |   0.5h    | Module Quiz 5  |           Cisco                   |  |
 | 08.11.2025 |   1h    | Introduction to Cybersecurity: Final Exam   |  Cisco                            |  |
+| 15.11.2025 |  0.5h     |    SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Portswigger  |  |
+| 15.11.2025 |  0.5h     |    SQL injection vulnerability allowing login bypass                             | Portswigger |  |
+| 15.11.2025 |  0.5h     |    Username enumeration via different responses                        |Portswigger  |  |
+| 16.11.2025 |   0.5h    |   Password reset broken logic                            | Portswigger | |
+| 16.11.2025 |  0.5h     |   Unprotected admin functionality                               | Portswigger | |
+| 17.11.2025 |  0.5h     |   User role can be modified in user profile                            |Portswigger  | |
