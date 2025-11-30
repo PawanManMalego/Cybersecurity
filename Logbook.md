@@ -32,4 +32,7 @@
 | 15.11.2025 |  0.5h     |    Username enumeration via different responses                        |Portswigger  |  |
 | 16.11.2025 |   0.5h    |   Password reset broken logic                            | Portswigger | |
 | 16.11.2025 |  0.5h     |   Unprotected admin functionality                               | Portswigger | |
-| 17.11.2025 |  0.5h     |   User role can be modified in user profile                            |Portswigger  | |
+|23.11.2025 | 4	| Booking System project	Going through the assignment and getting to know | |
+|24.11.2025 |	5	| setting up pen-test lab	Had problems setting up the environment | |
+|26.11.2025	| 5	| setting up pen-test lab	solved problems and did penetration test | |
+|27.11.2025	| 6	| understanding report and writing	Finished writing report and completed phase 1 -part 1 | |
