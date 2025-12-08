@@ -36,7 +36,9 @@
 |24.11.2025   |	5h	      | setting up pen-test lab	| Had problems setting up the environment | 
 |26.11.2025	  | 5h	      | setting up pen-test lab	| solved problems and did penetration test | 
 |27.11.2025	  | 6h  	    | understanding report and writing	| Finished writing report and completed phase 1 -part 1 | 
-|03.12.2025	|4|	redoing Phase1-part1 ZAP test for finding Critical alerts (e.g. SQL injection) | Finished writing report and completed phase 1 -part 1|
-|04.12.2025	|2|	redoing Phase1-part2 ZAP test for updated version	| Completed phase 1 -part 2|
-|07.12.2025	|3|	starting phase 2 |	downloaded updated version and started tests|
-|08.12.2025	|5|	did password cracking and prepared report	| Finished writing report and completed phase 2|
+|29.11.2025	|6h|	starting phase 1 - part 2	| Downloaded updated version and started test
+|02.12.2025	|6h|	writing discussion forum and final reports	| Finished writing report and completed phase 1 -part 2
+|03.12.2025	|4h|	redoing Phase1-part1 ZAP test for finding Critical alerts (eg. SQL injection) | Finished writing report and completed phase 1 -part 1|
+|04.12.2025	|2h|	redoing Phase1-part2 ZAP test for updated version	| Completed phase 1 -part 2|
+|07.12.2025	|3h|	starting phase 2 |	downloaded updated version and started tests|
+|08.12.2025	|5h|	did password cracking and prepared report	| Finished writing report and completed phase 2|
