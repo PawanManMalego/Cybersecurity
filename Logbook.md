@@ -42,6 +42,6 @@
 |04.12.2025	|2h|	redoing Phase1-part2 ZAP test for updated version	| Completed phase 1 -part 2 |
 |07.12.2025	|3h|	starting phase 2 |	downloaded updated version and started tests |
 |08.12.2025	|5h|	did password cracking and prepared report	| Finished writing report and completed phase 2 |
-|17.12.2025	|5h	Starting Phase3 and doing ZAP testing and other testing	| starting report writing |
+|17.12.2025	|5h|	Starting Phase3 and doing ZAP testing and other testing	| starting report writing |
 |18.12.2025	|4h|	Completed Phase 3 and reports |	Finished writing report |
 |18.12.2025	|3h|	Starting Phase 4 and reports |	Finished Phase 4 and writing report |
