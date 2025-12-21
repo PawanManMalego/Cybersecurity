@@ -27,13 +27,21 @@
 | 07.11.2025  |   0.5h    | Module Quiz 4                              | Cisco                     |  |
 | 07.11.2025  |   0.5h    | Module Quiz 5                              | Cisco                   |  |
 | 08.11.2025  |   1h      | Introduction to Cybersecurity: Final Exam  | Cisco                            |  |
-| 15.11.2025  |  2.5h     | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Portswigger |  |
-| 15.11.2025  |  2.5h     | SQL injection vulnerability allowing login bypass                             | Portswigger |  |
-| 15.11.2025  |  2.5h     | Username enumeration via different responses                                  | Portswigger |  |
-| 16.11.2025  |   2.5h    | Password reset broken logic                                                   | Portswigger |  |
-| 16.11.2025  |  2.5h     | Unprotected admin functionality                                               | Portswigger |  |
-| 17.11.2025  |  2.h     | User role can be modified in user profile                                     | Portswigger |  |
-| 17.11.2025  |  2.h     | Stored XSS into HTML context with nothing encoded                             | Portswigger |  |
+| 15.11.2025  |  2h     | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | Portswigger |  |
+| 15.11.2025  |  2h     | SQL injection vulnerability allowing login bypass                             | Portswigger |  |
+| 15.11.2025  |  2h     | Username enumeration via different responses                                  | Portswigger |  |
+| 16.11.2025  |  2h    | Password reset broken logic                                                   | Portswigger |  |
+| 16.11.2025  |  2h     | Unprotected admin functionality                                               | Portswigger |  |
+| 17.11.2025  |  2h     | User role can be modified in user profile                                     | Portswigger |  |
+| 17.11.2025  |  2h     | Stored XSS into HTML context with nothing encoded                             | Portswigger |  |
+| 15.11.2025  |  2h     | 2FA simple bypass | Portswigger |  |
+| 15.11.2025  |  2h     | Username enumeration via response timing| Portswigger |  |
+| 15.11.2025  |  2h     | Username enumeration via subtly different responses                             | Portswigger |  |
+| 16.11.2025  |  2h    | Exploiting an API endpoint using documentation                                                | Portswigger |  |
+| 16.11.2025  |  2h     | Exploiting server-side parameter pollution in a query string                                             | Portswigger |  |
+| 17.11.2025  |  2h     | Finding and exploiting an unused API endpoint                                | Portswigger |  |
+| 17.11.2025  |  2h     | Exploiting a mass assignment vulnerability                        | Portswigger |  |
+| 17.11.2025  |  2h     | Exploiting server-side parameter pollution in a REST URL                     | Portswigger |  |
 |23.11.2025   | 4h	      | Booking System project |	Going through the assignment and getting to know | 
 |24.11.2025   |	5h	      | setting up pen-test lab	| Had problems setting up the environment | 
 |26.11.2025	  | 5h	      | setting up pen-test lab	| solved problems and did penetration test | 
